@@ -32,6 +32,10 @@
 
 <hr> -->
 
+<div align="center" id="top"> 
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/tbVmZrk/unknown.png" alt="unknown" border="0"></a>
+</div>
+
 <br>
 
 ## :dart: About ##
@@ -40,7 +44,7 @@ Pavages en cercles fait sur [Trincket.io](https://trinket.io/features/python3)
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](https://github.com/NoNameBoyy/pavages/blob/main/LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/NoNameBoyy" target="_blank">NoNameBoyy</a>
